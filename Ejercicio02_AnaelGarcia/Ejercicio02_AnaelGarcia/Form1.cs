@@ -8,6 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Anael Ivanov Garcia Lagos
+//20201002112
+//Lenguaje de Programacion 03 - 1400
 namespace Ejercicio02_AnaelGarcia
 {
     public partial class Form1 : Form
